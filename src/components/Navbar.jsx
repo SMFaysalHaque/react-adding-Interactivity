@@ -11,7 +11,7 @@ export default function Navbar() {
           </h1>
         </div>
         <div className="flex items-center">
-          <img src="./assets/user-icon.svg" className="h-10" />
+          <p className="text-primary">React Adding Interactivity</p>
         </div>
       </nav>
     </div>
